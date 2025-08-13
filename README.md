@@ -1,4 +1,4 @@
-# 👋 Olá, mundo! Eu sou Renan Santos
+# 👋 Olá, Mundo! Eu sou Renan Santos
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Transição+de+Carreira;Especialista+em+Logística+Portuária;Futuro+Especialista+em+Segurança+da+Informação;2%2B+anos+de+Estudos+em+Programação" alt="Typing SVG" />
